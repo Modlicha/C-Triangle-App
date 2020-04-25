@@ -1,0 +1,10 @@
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\bin\Debug\Sprawdzanie Trojkatow.exe.config
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\bin\Debug\Sprawdzanie Trojkatow.exe
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\bin\Debug\Sprawdzanie Trojkatow.pdb
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie Trojkatow.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie_Trojkatow.Form1.resources
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie_Trojkatow.Properties.Resources.resources
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie Trojkatow.csproj.GenerateResource.cache
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie Trojkatow.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie Trojkatow.exe
+C:\Users\barte\source\repos\Sprawdzanie Trojkatow\Sprawdzanie Trojkatow\obj\Debug\Sprawdzanie Trojkatow.pdb
